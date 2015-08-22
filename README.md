@@ -5,6 +5,7 @@ resources we use for ludum dare
 ## Code
 
 [Game mechanics explorer](http://gamemechanicexplorer.com/)
+[Phaser](http://phaser.io/)
 
 
 ## Music
